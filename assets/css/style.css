@@ -15,6 +15,10 @@ body, html {
     background-size: cover;
 }
 
-#foot{
-    background: transparent;
+#scores{
+    opacity: .8;
+}
+
+#box{
+    opacity: .8;
 }
